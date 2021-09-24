@@ -32,7 +32,7 @@ const projects = [
   {
     name: 'Cloud Notebook',
     description:
-      'A android app with template based notes capabilites, you can create as many as you want notebooks with different templates for pages.',
+      'A android app with template based notes capabilities, you can create as many as you want notebooks with different templates for pages.',
     stack: ['Flutter', 'Firebase',],
     livePreview: 'https://play.google.com/store/apps/details?id=com.lightswitch.cloud_notebook',
   },
@@ -62,7 +62,7 @@ const projects = [
   {
     name: 'Sodium web',
     description:
-      "A flutter plugin for web, to call cryptographic functions in sodium lib. It is being used in the tezos's `tezster_dart` plugin for web support.",
+      "A flutter plugin for web, to call cryptographic functions in sodium lib. It is being used in the tezos's `tezster_dart` plugin for web.",
     stack: ['Flutter', 'libsodium.js'],
     sourceCode: 'https://github.com/SushantChandla/sodium_web',
     livePreview: 'https://pub.dev/packages/sodium_web'
