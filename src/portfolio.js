@@ -1,16 +1,12 @@
 const header = {
-  // all the properties are optional - can be left empty or deleted
-  // homepage: 'https://rajshekhar26.github.io/cleanfolio',
-  // title: '',
 }
 
 const about = {
-  // all the properties are optional - can be left empty or deleted
   name: 'Sushant Chandla',
   // role: 'Student',
   description:
     'I am currently learning Rust.',
-  resume: 'https://drive.google.com/file/d/1jl5BVemRNK7yhXCzutVq-UgPH__-rW82/view?usp=sharing',
+  resume: 'https://drive.google.com/file/d/1jl5BVemRNK7yhXCzutVq-UgPH__-rW82/preview',
   social: {
     // linkedin: 'https://linkedin.com',
     github: 'https://github.com/SushantChandla',
